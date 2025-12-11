@@ -1,5 +1,5 @@
 deployment:
-  imageVersion: latest
+  imageVersion: alpine-slim
   replicas: 1
 service:
   targetPort: 80
