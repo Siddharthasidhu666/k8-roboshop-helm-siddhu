@@ -1,5 +1,5 @@
 deployment:
-  imageVersion: alpine-slim
+  imageVersion: alpine-slimu
   replicas: 1
 service:
   targetPort: 80
